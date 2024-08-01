@@ -1,2 +1,2 @@
 <!-- <h1>Learning git</h1> -->
-# Learning Git with Anisur Sir
+# Learning Git with Anisur Islam Sir

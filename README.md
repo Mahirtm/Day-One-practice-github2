@@ -9,19 +9,22 @@ _I am Traing_
 ```html
    <h1>Hello world I am here</h1>
 ```
-- git & github 
+## Learned Today✔️💯
 
-1.git init
+ **1. Introduction to Github**
+  
+   - Git vs Github
+   - Git Configaration
+   - connect Local repo to remote repo
+   - Git workflow (add-commit-push) 
 
-2.git add
+**2. Gitignore**
 
-3.git commit
-
-4.git push
+**3. Readme.md**
 
 ![Mahir](images/mahir.jpg)
 
-| Command | Description |
+| Full Name | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Mahir Asfak  | I am a junior full stack web application developer |
+| Alhumdulillan  | Please never give up  |
